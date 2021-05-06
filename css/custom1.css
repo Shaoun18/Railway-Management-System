@@ -1,0 +1,123 @@
+img{
+	width:100%;
+}
+
+#mainlogo{
+	width:80px;
+}
+
+header{
+	border-bottom:10px solid red;
+}
+
+/* Slider css navbar-dark fixed-top bg-dark */
+
+.heading-box h2{ width:100%; color: red; }
+.text-box {
+	position: absolute;
+	top: 50%;
+	left: 15%;
+	right: 15%;
+	color: #fff;
+	text-align: center;
+	transform: translateY(-50%);
+}
+
+/* Slider css end */
+
+.section_title{
+	width:300px;
+	text-align:center;
+	font-weight:bold;
+	font-family:arial black;
+	padding:20px 0px;
+	margin:auto;
+	
+}
+
+.section_title h2{
+	border-bottom:3px solid orange;
+	padding-bottom:5px;
+	
+}
+
+section{
+	padding:25px 0px;
+}
+
+.service_box{
+	border:1px solid blue;
+	padding:10px;
+	text-align:center;
+	
+}
+
+.service_icon i{
+	font-size:60px;
+	margin-top:15px;
+	margin-right:1px;
+}
+
+.service_icon {
+	
+	text-align : center;
+	border:1px solid black;
+	width:90px;
+	height:90px;
+	border-radius:15px;
+	margin:auto;
+	margin-bottom:15px;
+	background:black;
+	color:white;
+}
+
+.service_title{
+	font-size:18px;
+	font-family:arial black;
+	
+}
+
+.service_desc{
+	font-size:14px;
+	color:#777;
+}
+
+.titleRow{
+	margin-bottom:50px;
+}
+
+.serviceRow div.col-md-3{
+	margin-bottom:30px;
+	
+}
+
+footer{
+	padding:30px 0px;
+	background:#333;
+	color:white;
+	padding-bottom:0;
+}
+
+.copyrights{
+	background:black;
+	color:white;
+	padding:20px 0px;
+	text-align:center;
+}
+
+footer div.boxescontainer{
+	padding-bottom:40px;
+}
+
+.ftitle{
+	font-weight:bold;
+	font-family:arial;
+	font-size:16px;
+	border-bottom:1px solid #ddd;
+	padding:10px;
+	
+}
+
+.fdesc{
+	color : #ddd;
+}

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f143814-c009-4cd9-902f-5e4a62f300f4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="f0b58916-e9d8-4c29-980e-4598e2df27cb" name="apache" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1UvptqMbq7uiwuoPWt8qd9HKGlD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Railway Database Project" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f143814-c009-4cd9-902f-5e4a62f300f4" name="Default Changelist" comment="" />
+      <created>1576247142949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576247142949</updated>
+      <workItem from="1576247156112" duration="5363000" />
+      <workItem from="1576259737366" duration="74000" />
+      <workItem from="1576306038648" duration="847000" />
+      <workItem from="1576939300300" duration="2394000" />
+      <workItem from="1577978824869" duration="1629000" />
+      <workItem from="1578199680078" duration="8602000" />
+      <workItem from="1578219800345" duration="1252000" />
+      <workItem from="1578233968561" duration="2942000" />
+      <workItem from="1578284980429" duration="7004000" />
+      <workItem from="1578318895298" duration="5056000" />
+      <workItem from="1578404765273" duration="1356000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="263" y="18" key="#CLI_Interpreters" timestamp="1576258281204">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="18" key="#CLI_Interpreters/0.0.1366.728@0.0.1366.728" timestamp="1576258281204" />
+    <state x="390" y="0" key="#PHP" timestamp="1576258834705">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="0" key="#PHP/0.0.1366.728@0.0.1366.728" timestamp="1576258834705" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1578410033199">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1578410033199" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1577979073373">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1577979073373" />
+    <state x="379" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1576306085867">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1576306085867" />
+  </component>
+</project>
