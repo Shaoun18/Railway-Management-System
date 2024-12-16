@@ -21,4 +21,4 @@
 
 #### Verify Ticket Page
 
-![Register](screenshot/verify_ticket.png)
+![Register](screenshot/Verify_ticket.png)
