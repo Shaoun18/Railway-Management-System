@@ -3,9 +3,9 @@
 // connection create 
 
 	$host = "localhost";
-	$dbUser = "railway";
-	$dbPWD = "stamford";
-	$dbname = "railway database";
+	$dbUser = "root";
+	$dbPWD = "";
+	$dbname = "railway";
 
 	$connect = mysqli_connect($host,$dbUser,$dbPWD,$dbname);
 
